@@ -1,4 +1,4 @@
-## Hey there, I'm Palak Kothari 👋
+## Hey there, I'm Palak 👋
 
 
 

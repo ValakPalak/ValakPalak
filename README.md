@@ -1,16 +1,40 @@
-### Hi there 👋
+## Hey there, I'm Palak Kothari 👋
 
-<!--
-**ValakPalak/ValakPalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm a B.Tech. Sophomore!
+
+- ⚡ I'm a student of IIT Guwahati.
+- 🔭 I’m currently working on Competetive Programming and an AR/VR Project.
+- 🌱 I’m currently trying to learn everything.
+- 🥅 2020 Goals: Boost my CP skills.
+
+### Connect with me:
+
+[<img align="left" alt="Palak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Palak| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+<br />
+
+### Languages and Tools:
+<img align="left" alt ="C++"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img align="left" alt ="Python 3"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+
+<br />
+<br />
+
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ValakPalak&show_icons=true&theme=radical&hide_border=true" />
+
+
+
+[instagram]: https://instagram.com/palakothari_
+[linkedin]: https://www.linkedin.com/in/palak-kothari-70b35817a/
+
+
+

@@ -6,7 +6,7 @@
 ## I'm a B.Tech. Sophomore!
 
 - ⚡ I'm a student of IIT Guwahati.
-- 🔭 I’m currently working on Competetive Programming and an AR/VR Project.
+- 🔭 I’m currently working on Competitive Programming and an AR/VR Project.
 - 🌱 I’m currently trying to learn everything.
 - 🥅 2020 Goals: Boost my CP skills.
 

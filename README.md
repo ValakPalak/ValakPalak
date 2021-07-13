@@ -6,9 +6,9 @@
 ## I'm a B.Tech. Sophomore!
 
 - ⚡ I'm a student of IIT Guwahati.
-- 🔭 I’m currently working on Competitive Programming and an AR/VR Project.
+- 🔭 I’m currently working on Competitive Programming.
 - 🌱 I’m currently trying to learn everything.
-- 🥅 2020 Goals: Boost my CP skills.
+- 🥅 2021 Goals: Boost my CP skills.
 
 ### Connect with me:
 
@@ -18,14 +18,14 @@
 
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 <img align="left" alt ="C++"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 <img align="left" alt ="Python 3"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
+ -->
 
 <br />
-<br />
+<br /> 
 
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ValakPalak&show_icons=true&theme=radical&hide_border=true" />

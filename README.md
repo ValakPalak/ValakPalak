@@ -3,12 +3,11 @@
 
 
 
-## I'm a B.Tech. Sophomore!
 
 - ⚡ I'm a student of IIT Guwahati.
 - 🔭 I’m currently working on Competitive Programming.
 - 🌱 I’m currently trying to learn everything.
-- 🥅 2021 Goals: Boost my CP skills.
+- 🥅 2022 Goals: Boost my CP and Development skills.
 
 ### Connect with me:
 
@@ -33,7 +32,7 @@
 
  -->
 [instagram]: https://instagram.com/palakothari_
-[linkedin]: https://www.linkedin.com/in/palak-kothari-70b35817a/
+[linkedin]: https://www.linkedin.com/in/palak-kothari/
 
 
 

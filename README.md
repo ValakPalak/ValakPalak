@@ -32,7 +32,7 @@
 
  -->
 [instagram]: https://instagram.com/palakothari_
-[linkedin]: https://www.linkedin.com/in/palak-kothari/
+[linkedin]: https://www.linkedin.com/in/palakothari/
 
 
 
